@@ -1,0 +1,1 @@
+run `npm test` to run all test

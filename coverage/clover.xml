@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1587672746306" clover="3.2.0">
+  <project timestamp="1587672746306" name="All files">
+    <metrics statements="20" coveredstatements="12" conditionals="8" coveredconditionals="4" methods="8" coveredmethods="5" elements="36" coveredelements="21" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="Queue.js" path="/Users/ninad/Desktop/projects/JSQueue/src/Queue.js">
+      <metrics statements="20" coveredstatements="12" conditionals="8" coveredconditionals="4" methods="8" coveredmethods="5"/>
+      <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="38" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
